@@ -1,0 +1,17 @@
+git pull-O comando `git pull` atualiza o repositório local com as mudanças do repositório remoto, combinando `git fetch` (busca as mudanças) e `git merge` (mescla na branch atual). 🚀
+git status-O comando git status serve para exibir o estado atual do repositório, mostrando:
+Arquivos modificados, adicionados ou excluídos.
+Quais mudanças estão no staging para commit.
+Arquivos não rastreados pelo Git.
+Ele ajuda a visualizar o que foi alterado antes de um commit. 🚀
+git add .- O comando git add . adiciona todas as mudanças (arquivos novos, modificados e excluídos) ao staging, preparando-os para o próximo commit. 🚀
+git commit -m "Atualizacao"- O comando git commit -m "Atualizacao" cria um commit com a mensagem "Atualizacao", salvando as mudanças adicionadas ao staging no histórico do Git. 🚀
+git push- O comando git push envia os commits do repositório local para o repositório remoto, atualizando-o com as mudanças feitas. 🚀
+
+
+
+
+
+
+
+  
