@@ -1,0 +1,30 @@
+Objetivo da aula de hoje: 31/01/2025
+
+#01_ NÃO INICIAR AINDA a Máquina Virtual do Linux Mint
+
+#02_ Configuração do Git Bash no Windows
+
+#03_ Configuração do VSCode no Windows
+
+#04_ Integração do Git Bash, VSCode e Github no Windows
+
+git pull
+git status
+git add .
+git commit -m "Atualizacao"
+git push
+========================================
+
+DESAFIO DE HOJE: 31/01/2025
+
+#01_ No Windows 10: Tirar os Printscreen do VSCode integrado no Gitbash e com as Extensões Instaladas.
+
+#02_ No Windows 10: Criar um novo Diretório no Repósito Local do: senac-tat com o nome: Windows10, colocar nesse diretório os Print do VSCode e se você tiver material do Windows 10 passado pelo Tallis deixar nesse diretório.
+
+#03_ No Windows 10: Criar um novo Diretório no Repósito Local do: senac-tat com o nome: TeoriaHardware e colocar os materiais das Aulas do Leandro Ramos.
+
+#04_ Enviar todas as mudanças para o Github.
+
+#05_ Iniciar o Linux Mint, atualizar o seu Repositório Local com as mudanças, Tirar o Print e colocar na Pasta: LinuxMint.
+
+#06_ Tirar um Print do Terminal utilizando o comando: date e depois o comando: history e colocar na Pasta Linux Mint (apagar apenas as informações de email desse comando): 

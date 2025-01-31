@@ -1,0 +1,2 @@
+Maquina virtual windowsXP, windows 7 E windows 8 :
+Instalamos as maquinas windowsXP, windows 7 E windows 8 no VirtualBox,compartilhando arquivos entre as maquinas. Também mudaos o IP e CMD
